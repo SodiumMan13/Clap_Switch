@@ -53,12 +53,12 @@ Saturday October 3:
 
 I first ran the Electrical Rules Checker to make sure that everything was fine. It told me to fix some input pins, but I just had to place power flags to fix them.
 
-I also edited the pin layout of the NE555D to match the one on circuits-diy. It showed me a warning, but it was just that my NE555 didn't match the one in KiCad's library.
-
 ![Screenshot 2026-10-03 142803](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ALyNJTAoKKQxkBhHkvpPIPXU2JTDxn4z/a433ede1f6a69220b952d592eb935e3bce4dac5de4ebf506d98f0f6ac002c8a0.png)
 
-I started assigning footprints for each component,  and it took me a lot of time to understand how everything worked and know which footprints to choose. I had to search up a lot of different things to understand the footprints:
+I also edited the pin layout of the NE555D to match the one on circuits-diy. It showed me a warning, but it was just that my NE555 didn't match the one in KiCad's library.
 
 ![Screenshot 2026-10-03 142455](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ALyNJTAoKKQxkBhHkvpPIPXU2JTDxn4z/9d352fe82e4c97f25ae3d6141ac49885c9f628779931ca48841f9c4911bfcf07.png)
+
+I started assigning footprints for each component,  and it took me a lot of time to understand how everything worked and know which footprints to choose. I had to search up a lot of different things to understand the footprints:
 
 ![Screenshot 2026-10-03 151709](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ALyNJTAoKKQxkBhHkvpPIPXU2JTDxn4z/b1cd1cf7639193fb7b0668dac1c145bad1d43cff030c286e4992270a64eb2cf1.png)
