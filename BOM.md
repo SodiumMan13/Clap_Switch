@@ -19,7 +19,7 @@
 | [151031VS06000](https://www.we-online.com/components/products/datasheet/151031VS06000.pdf) | LED to signal clap | 1 | $0.16 | $0.16 | [Würth Elektronik](https://www.we-online.com/components/products/datasheet/151031VS06000.pdf) |
 | [UCY2G100MPD1TD](https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ucy.pdf) | capacitor | 1 | $1.20 | $1.20 | [Nichicon](https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ucy.pdf) |
 | **Parts subtotal** | — | — | — | **$2.56** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$2.56** | — |
+| **Tax & shipping** | — | — | — | **$342.00** | — |
+| **Total** | — | — | — | **$344.56** | — |
 
-$27.44 left of the tier's funding.
+**$314.56 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
