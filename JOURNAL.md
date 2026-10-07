@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> It turns on when it hears a clap.
+> An LED turns on when a mic hears a clap.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
