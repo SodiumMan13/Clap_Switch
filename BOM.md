@@ -24,7 +24,7 @@
 | [CFR-12JB-52-100K](https://www.digikey.com/en/products/detail/yageo/CFR-12JB-52-100K/3950) | 100 k resistor | 1 | $0.10 | $0.10 | [YAGEO](https://www.digikey.com/en/products/detail/yageo/CFR-12JB-52-100K/3950) |
 | [PCB](https://cart.jlcpcb.com/quote) | the actual board itself | 5 | $0.80 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote) |
 | **Parts subtotal** | — | — | — | **$9.54** | — |
-| **Tax & shipping** | — | — | — | **$6.25** | — |
-| **Total** | — | — | — | **$15.79** | — |
+| **Tax & shipping** | — | — | — | **$12.48** | — |
+| **Total** | — | — | — | **$22.02** | — |
 
-$14.21 left of the tier's funding.
+$7.98 left of the tier's funding.
