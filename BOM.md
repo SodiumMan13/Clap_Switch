@@ -25,7 +25,7 @@
 | [PCB](https://cart.jlcpcb.com/quote) | the actual board itself | 5 | $0.80 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote) |
 | [84-4](https://www.digikey.com/en/products/detail/keystone-electronics/84-4/304013) | 9v battery snap | 1 | $0.99 | $0.99 | [Keystone Electronics](https://www.digikey.com/en/products/detail/keystone-electronics/84-4/304013) |
 | **Parts subtotal** | — | — | — | **$10.53** | — |
-| **Tax & shipping** | — | — | — | **$12.48** | — |
-| **Total** | — | — | — | **$23.01** | — |
+| **Tax & shipping** | — | — | — | **$12.76** | — |
+| **Total** | — | — | — | **$23.29** | — |
 
-$6.99 left of the tier's funding.
+$6.71 left of the tier's funding.
