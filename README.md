@@ -1,6 +1,8 @@
 # Clap_Switch
 A PCB that has an LED turn on when someone claps. I chose this because I am a beginner and wanted to learn the process of how PCB design works.
 
+The clap switch is powered by a 9v battery, which is connected by a battery snap. A condenser microphone senses loud noises like a clap, and with a transistor, turns on an LED with a NE555 timer to control how long it stays on. This is a good project for beginners as it is simple, but still teaches the basics of PCB design.
+
 These are the schematics:
 <img width="334" height="208" alt="image" src="https://github.com/user-attachments/assets/345a46ba-1d50-4280-ae36-45d77a802e5f" />
 
